@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_hoe"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "block/crueltycraft/lifeglasses"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "block/crueltycraft/zoomngo"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "block/crueltycraft/nightvisgoggles"
+    }
+  ]
+}

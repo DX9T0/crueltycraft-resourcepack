@@ -1,0 +1,6 @@
+{
+  "crueltycraft.fleshrat": {
+    "category": "hostile",
+    "sounds": ["crueltycraft/fleshrat"]
+  }
+}
