@@ -67,6 +67,10 @@
     {
       "predicate": { "custom_model_data": 15 },
       "model": "block/crueltycraft/rainhat"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "block/crueltycraft/flowerchute"
     }
   ]
 }
