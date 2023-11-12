@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/crueltycraft/firstaidkit"
+    "layer0": "minecraft:item/crueltycraft/potion_overlay",
+    "layer1": "minecraft:item/crueltycraft/firstaidkit"
   }
 }
