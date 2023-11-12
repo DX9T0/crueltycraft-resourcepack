@@ -71,6 +71,10 @@
     {
       "predicate": { "custom_model_data": 16 },
       "model": "block/crueltycraft/flowerchute"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "minecraft:item/stealthsuit"
     }
   ]
 }
