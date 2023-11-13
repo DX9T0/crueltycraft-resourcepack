@@ -75,6 +75,26 @@
     {
       "predicate": { "custom_model_data": 17 },
       "model": "minecraft:item/stealthsuit"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "minecraft:item/ammogland"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "minecraft:item/angularadvantagetacmunition"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "minecraft:item/cursedtorch"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "minecraft:item/golemsuit"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "minecraft:item/goooverdrive"
     }
   ]
 }
