@@ -95,6 +95,10 @@
     {
       "predicate": { "custom_model_data": 22 },
       "model": "minecraft:item/goooverdrive"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "minecraft:item/biothruster"
     }
   ]
 }
