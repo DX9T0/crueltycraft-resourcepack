@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "item/records/disc_fragment_cs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/records/disc_fragment_entrapment"
     }
   ]
 }
