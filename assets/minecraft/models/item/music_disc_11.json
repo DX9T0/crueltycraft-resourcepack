@@ -8,13 +8,109 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/music_disc_musicdiscname"
+      "model": "item/music_disc_depressionnap"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "item/music_disc_musicdiscname2"
+      "model": "item/music_disc_memoriesofhq"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/music_disc_pharmacreep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/music_disc_combatcocktail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/music_disc_chunkopops"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/music_disc_sacrificialmission"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/music_disc_steroidlegend"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/music_disc_cancercitymegamall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/music_disc_rentdue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/music_disc_sovereigncitizen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/music_disc_toxiccrisis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/music_disc_wheeloffortune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/music_disc_controlleddepopulation"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/music_disc_divinityoftheoffice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/music_disc_punishment"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/music_disc_impenetrablelife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/music_disc_meatoids"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/music_disc_entrapment"
     }
   ]
 }
