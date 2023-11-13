@@ -99,6 +99,10 @@
     {
       "predicate": { "custom_model_data": 23 },
       "model": "minecraft:item/biothruster"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "minecraft:item/biosuit"
     }
   ]
 }
