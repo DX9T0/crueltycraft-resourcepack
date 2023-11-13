@@ -2,5 +2,23 @@
   "crueltycraft.fleshrat": {
     "category": "hostile",
     "sounds": ["crueltycraft/fleshrat"]
+  },
+
+  "music_disc.depressionnap": {
+    "sounds": [
+      {
+        "name": "records/depressionnap",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.memoriesofhq": {
+    "sounds": [
+      {
+        "name": "records/memoriesofhq",
+        "stream": true
+      }
+    ]
   }
 }
