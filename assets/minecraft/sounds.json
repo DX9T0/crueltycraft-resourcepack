@@ -20,5 +20,133 @@
         "stream": true
       }
     ]
+  },
+  "music_disc.pharmacreep": {
+    "sounds": [
+      {
+        "name": "records/pharmacreep",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.combatcocktail": {
+    "sounds": [
+      {
+        "name": "records/combatcocktail",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.chunkopops": {
+    "sounds": [
+      {
+        "name": "records/chunkopops",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sacrificialmission": {
+    "sounds": [
+      {
+        "name": "records/sacrificialmission",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.steroidlegend": {
+    "sounds": [
+      {
+        "name": "records/steroidlegend",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.cancercitymegamall": {
+    "sounds": [
+      {
+        "name": "records/cancercitymegamall",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.rentdue": {
+    "sounds": [
+      {
+        "name": "records/rentdue",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sovereigncitizen": {
+    "sounds": [
+      {
+        "name": "records/sovereigncitizen",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.toxiccrisis": {
+    "sounds": [
+      {
+        "name": "records/toxiccrisis",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.wheeloffortune": {
+    "sounds": [
+      {
+        "name": "records/wheeloffortune",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.controlleddepopulation": {
+    "sounds": [
+      {
+        "name": "records/controlleddepopulation",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.divinityoftheoffice": {
+    "sounds": [
+      {
+        "name": "records/divinityoftheoffice",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.punishment": {
+    "sounds": [
+      {
+        "name": "records/punishment",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.impenetrablelife": {
+    "sounds": [
+      {
+        "name": "records/impenetrablelife",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.meatoids": {
+    "sounds": [
+      {
+        "name": "records/meatoids",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.entrapment": {
+    "sounds": [
+      {
+        "name": "records/entrapment",
+        "stream": true
+      }
+    ]
   }
 }
