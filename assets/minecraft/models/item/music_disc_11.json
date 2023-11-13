@@ -8,109 +8,109 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/records/music_disc_depressionnap"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "item/records/music_disc_memoriesofhq"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "item/records/music_disc_pharmacreep"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "item/records/music_disc_combatcocktail"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "item/records/music_disc_chunkopops"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "item/records/music_disc_sacrificialmission"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 7
       },
-      "model": "item/records/music_disc_steroidlegend"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 8
       },
-      "model": "item/records/music_disc_cancercitymegamall"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 9
       },
-      "model": "item/records/music_disc_rentdue"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 10
       },
-      "model": "item/records/music_disc_sovereigncitizen"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 11
       },
-      "model": "item/records/music_disc_toxiccrisis"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 12
       },
-      "model": "item/records/music_disc_wheeloffortune"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 13
       },
-      "model": "item/records/music_disc_controlleddepopulation"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 14
       },
-      "model": "item/records/music_disc_divinityoftheoffice"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 15
       },
-      "model": "item/records/music_disc_punishment"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 16
       },
-      "model": "item/records/music_disc_impenetrablelife"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 17
       },
-      "model": "item/records/music_disc_meatoids"
+      "model": "item/records/music_disc_cs"
     },
     {
       "predicate": {
         "custom_model_data": 18
       },
-      "model": "item/records/music_disc_entrapment"
+      "model": "item/records/music_disc_cs"
     }
   ]
 }
