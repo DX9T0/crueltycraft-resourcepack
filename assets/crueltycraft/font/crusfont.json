@@ -1,0 +1,26 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "crueltycraft:crusfont.ttf"
+        },
+		{
+            "type": "bitmap",
+            "file": "crueltycraft:font/target.png",
+            "ascent": 32,
+			"height": 32,
+            "chars": [
+                "\uE000"
+			]
+        },
+		{
+            "type": "bitmap",
+            "file": "crueltycraft:font/handlerchat.png",
+            "ascent": 60,
+			"height": 60,
+            "chars": [
+                "\uE001"
+			]
+        }
+	]
+}
