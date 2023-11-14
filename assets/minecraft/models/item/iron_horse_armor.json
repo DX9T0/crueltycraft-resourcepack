@@ -102,7 +102,7 @@
     },
     {
       "predicate": { "custom_model_data": 24 },
-      "model": "minecraft:item/biosuit"
+      "model": "minecraft:item/exsuit"
     }
   ]
 }
