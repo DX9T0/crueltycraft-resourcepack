@@ -21,6 +21,15 @@
             "chars": [
                 "\uE001"
 			]
+        },
+		{
+            "type": "bitmap",
+            "file": "crueltycraft:font/civchat.png",
+            "ascent": 60,
+			"height": 60,
+            "chars": [
+                "\uE002"
+			]
         }
 	]
 }
