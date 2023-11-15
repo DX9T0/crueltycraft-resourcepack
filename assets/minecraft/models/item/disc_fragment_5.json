@@ -8,7 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/records/disc_fragment_cs"
+      "model": "item/records/disc_fragment_depressionnap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/records/disc_fragment_memoriesofhq"
     },
     {
       "predicate": {
@@ -21,6 +27,12 @@
         "custom_model_data": 12
       },
       "model": "item/records/disc_fragment_wheeloffortune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/records/disc_fragment_punishment"
     },
     {
       "predicate": {
