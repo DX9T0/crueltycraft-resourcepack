@@ -4,6 +4,11 @@
     "sounds": ["crueltycraft/fleshrat"]
   },
 
+  "crueltycraft.pistol_silenced": {
+    "category": "player",
+    "sounds": ["crueltycraft/pistol_silenced"]
+  },
+
   "music_disc.depressionnap": {
     "sounds": [
       {
