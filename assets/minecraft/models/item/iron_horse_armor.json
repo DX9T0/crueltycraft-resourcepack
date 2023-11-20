@@ -103,6 +103,55 @@
     {
       "predicate": { "custom_model_data": 24 },
       "model": "minecraft:item/exsuit"
+    },
+
+    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "minecraft:item/organs/brain"
+    },
+    {
+      "predicate": { "custom_model_data": 101 },
+      "model": "minecraft:item/organs/augmented_brain"
+    },
+    {
+      "predicate": { "custom_model_data": 106 },
+      "model": "minecraft:item/organs/kidney"
+    },
+    {
+      "predicate": { "custom_model_data": 109 },
+      "model": "minecraft:item/organs/intestine"
+    },
+    {
+      "predicate": { "custom_model_data": 110 },
+      "model": "minecraft:item/organs/putrid_intestine"
+    },
+    {
+      "predicate": { "custom_model_data": 111 },
+      "model": "minecraft:item/organs/appendix"
+    },
+    {
+      "predicate": { "custom_model_data": 112 },
+      "model": "minecraft:item/organs/spine"
+    },
+    {
+      "predicate": { "custom_model_data": 113 },
+      "model": "minecraft:item/organs/rotten_spine"
+    },
+    {
+      "predicate": { "custom_model_data": 114 },
+      "model": "minecraft:item/organs/stomach"
+    },
+    {
+      "predicate": { "custom_model_data": 115 },
+      "model": "minecraft:item/organs/nuclear_gut"
+    },
+    {
+      "predicate": { "custom_model_data": 116 },
+      "model": "minecraft:item/organs/pancreas"
+    },
+    {
+      "predicate": { "custom_model_data": 117 },
+      "model": "minecraft:item/organs/advanced_pancreas"
     }
   ]
 }
