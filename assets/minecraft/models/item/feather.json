@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "item/guns/khr5"
+    }
+  ]
+}

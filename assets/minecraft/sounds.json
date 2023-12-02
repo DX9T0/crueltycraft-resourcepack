@@ -4,9 +4,20 @@
     "sounds": ["crueltycraft/fleshrat"]
   },
 
-  "crueltycraft.pistol_silenced": {
+  "guns.pistol_silenced": {
     "category": "player",
-    "sounds": ["crueltycraft/pistol_silenced"]
+    "sounds": ["guns/pistol_silenced"]
+  },
+
+  "guns.smg": {
+    "category": "player",
+    "sounds": ["guns/smg"],
+    "pitch": "0.9"
+  },
+
+  "guns.reload": {
+    "category": "player",
+    "sounds": ["guns/reload"]
   },
 
   "music_disc.depressionnap": {
